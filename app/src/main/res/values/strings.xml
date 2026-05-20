@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PIX Key Manager</string>
+
+    <string name="title_form">PIX Key Registration</string>
+    <string name="title_about">PIX Key Manager</string>
+    <string name="about_subtitle">App authorship</string>
+
+    <string name="label_name">Name/Nickname</string>
+    <string name="hint_name">Ex: My Nubank, Mom, John</string>
+    <string name="label_key">Key</string>
+    <string name="hint_key">Ex: e-mail, CPF, phone or random</string>
+    <string name="label_key_type">Key type</string>
+    <string name="label_owner">Key owner</string>
+    <string name="label_favorite">Mark as favorite</string>
+
+    <string name="type_email">E-mail</string>
+    <string name="type_phone">Phone</string>
+    <string name="type_cpf">CPF</string>
+    <string name="type_random">Random</string>
+
+    <string name="owner_own">Own</string>
+    <string name="owner_third">Third party</string>
+
+    <string name="menu_add">Add</string>
+    <string name="menu_about">About</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_sort_az">Sort A-Z</string>
+    <string name="menu_sort_za">Sort Z-A</string>
+    <string name="menu_restore_default">Restore default sorting</string>
+
+    <string name="context_title">Item options</string>
+    <string name="context_edit">Edit</string>
+    <string name="context_delete">Delete</string>
+
+    <string name="toast_form_cleared">Form cleared.</string>
+    <string name="toast_item_added">Added: %1$s</string>
+    <string name="toast_item_updated">Updated: %1$s</string>
+    <string name="toast_item_deleted">Item deleted.</string>
+    <string name="toast_item_clicked">Clicked: %1$s</string>
+    <string name="toast_sort_az">Sorting saved: A-Z</string>
+    <string name="toast_sort_za">Sorting saved: Z-A</string>
+    <string name="toast_sort_restored">Default sorting restored.</string>
+
+    <string name="error_fill_name">Error: fill in the Name/Nickname.</string>
+    <string name="error_fill_key">Error: fill in the Key.</string>
+    <string name="error_select_owner">Error: select the Key owner.</string>
+
+    <string name="favorite_yes">★ Favorite</string>
+    <string name="favorite_no">☆ Not favorite</string>
+
+    <string name="section_author">Author</string>
+    <string name="section_description">Description</string>
+    <string name="section_utfpr">UTFPR</string>
+
+    <string name="author_name">Name: Jeniffer Cristina Freitas Ramos</string>
+    <string name="author_course">Course: CETEJ36 - Android (Java)</string>
+    <string name="author_email">E-mail: jenifferramos@alunos.utfpr.edu.br</string>
+
+    <string name="app_description">This app allows the user to register and list their own PIX keys or third-party PIX keys, making personal control and quick access easier.</string>
+    <string name="utfpr_name">Federal University of Technology - Paraná (UTFPR)</string>
+
+    <string name="dialog_delete_title" translatable="false">Confirm deletion</string>
+    <string name="dialog_delete_message" translatable="false">Do you really want to delete this item?</string>
+    <string name="dialog_yes" translatable="false">Yes</string>
+    <string name="dialog_no" translatable="false">No</string>
+
+    <string-array name="key_types_array">
+        <item>E-mail</item>
+        <item>Phone</item>
+        <item>CPF</item>
+        <item>Random</item>
+    </string-array>
+
+</resources>

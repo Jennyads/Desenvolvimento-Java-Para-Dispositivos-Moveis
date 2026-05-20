@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lvChaves"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="72dp"
+    android:dividerHeight="8dp"
+    android:clipToPadding="false" />

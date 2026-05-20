@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ControleChavesPix" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/pix_green</item>
+        <item name="colorPrimaryDark">@color/pix_green_dark</item>
+        <item name="colorAccent">@color/pix_green</item>
+        <item name="android:windowActionBarOverlay">false</item>
+    </style>
+
+</resources>

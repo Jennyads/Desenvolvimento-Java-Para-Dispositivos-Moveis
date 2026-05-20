@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controle de Chaves PIX</string>
+
+    <string name="title_form">Cadastro de Chave PIX</string>
+    <string name="title_about">Controle de Chaves PIX</string>
+    <string name="about_subtitle">Autoria do aplicativo</string>
+
+    <string name="label_name">Nome/Apelido</string>
+    <string name="hint_name">Ex: Minha Nubank, Mãe, João</string>
+    <string name="label_key">Chave</string>
+    <string name="hint_key">Ex: e-mail, CPF, telefone ou aleatória</string>
+    <string name="label_key_type">Tipo da chave</string>
+    <string name="label_owner">Dono da chave</string>
+    <string name="label_favorite">Marcar como favorita</string>
+
+    <string name="type_email">E-mail</string>
+    <string name="type_phone">Telefone</string>
+    <string name="type_cpf">CPF</string>
+    <string name="type_random">Aleatória</string>
+
+    <string name="owner_own">Própria</string>
+    <string name="owner_third">Terceiro</string>
+
+    <string name="menu_add">Adicionar</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_save">Salvar</string>
+    <string name="menu_clear">Limpar</string>
+    <string name="menu_sort_az">Ordenar A-Z</string>
+    <string name="menu_sort_za">Ordenar Z-A</string>
+    <string name="menu_restore_default">Restaurar ordenação padrão</string>
+
+    <string name="context_title">Opções do item</string>
+    <string name="context_edit">Editar</string>
+    <string name="context_delete">Excluir</string>
+
+    <string name="toast_form_cleared">Formulário limpo.</string>
+    <string name="toast_item_added">Adicionado: %1$s</string>
+    <string name="toast_item_updated">Editado: %1$s</string>
+    <string name="toast_item_deleted">Item excluído.</string>
+    <string name="toast_item_clicked">Clicado: %1$s</string>
+    <string name="toast_sort_az">Ordenação salva: A-Z</string>
+    <string name="toast_sort_za">Ordenação salva: Z-A</string>
+    <string name="toast_sort_restored">Ordenação padrão restaurada.</string>
+
+    <string name="error_fill_name">Erro: preencha o Nome/Apelido.</string>
+    <string name="error_fill_key">Erro: preencha a Chave.</string>
+    <string name="error_select_owner">Erro: selecione o Dono da chave.</string>
+
+    <string name="favorite_yes">★ Favorita</string>
+    <string name="favorite_no">☆ Não favorita</string>
+
+    <string name="section_author">Autoria</string>
+    <string name="section_description">Descrição</string>
+    <string name="section_utfpr">UTFPR</string>
+
+    <string name="author_name">Nome: Jeniffer Cristina Freitas Ramos</string>
+    <string name="author_course">Curso: CETEJ36 - Android (Java)</string>
+    <string name="author_email">E-mail: jenifferramos@alunos.utfpr.edu.br</string>
+
+    <string name="app_description">Este aplicativo permite cadastrar e listar chaves PIX próprias ou de terceiros, facilitando o controle pessoal e o acesso rápido às informações.</string>
+    <string name="utfpr_name">Universidade Tecnológica Federal do Paraná (UTFPR)</string>
+
+    <string name="dialog_delete_title">Confirmar exclusão</string>
+    <string name="dialog_delete_message">Deseja realmente excluir este item?</string>
+    <string name="dialog_yes">Sim</string>
+    <string name="dialog_no">Não</string>
+
+    <string-array name="key_types_array">
+        <item>E-mail</item>
+        <item>Telefone</item>
+        <item>CPF</item>
+        <item>Aleatória</item>
+    </string-array>
+
+</resources>
